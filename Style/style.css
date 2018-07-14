@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(15, 15, 10);
+}
+
+div {
+    background-color: rgb(40, 40, 40);
+    color: rgb(235, 235, 235);
+    height: 400px;
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 40px;
+}
+
+#create_acc_form {
+    float: left;
+    margin-right: 200px;
+    margin-top: 70px;
+    margin-left: 330px;
+}
+
+#login_acc_form {
+    float: left;
+    margin-top: 50px;
+    margin-right: 200px;
+}
+
+#message {
+    background-color: rgb(40, 40, 40);
+    color: rgb(235, 235, 235);
+    float: left;
+    text-align: center;
+    width: 300px;
+    margin-left: 750px;
+}
+
+#greeting {
+    background-color: rgb(40, 40, 40);
+    color: rgb(235, 235, 235);
+    float: left;
+    text-align: center;
+    width: 300px;
+    margin-left: 750px;
+}

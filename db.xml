@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user>
+    <name>test1</name><login>test1</login><password>004ec80d5216e16dd87fa338ebc6e488</password><email>test1@test.com</email><token>b851f58d40cce14ccaf60fcfd567d32e20f72c2e9d4950c249211d7d0074f8efffc8ee9e4aa7180220854784a0b30b7aa99f8c2c9ae4bd66d00f25dbaecf345d</token>
+</user>
+<user>
+    <name>test2</name><login>test2</login><password>985166582af0d6c6c755997ef7a1b4ea</password><email>test2@test.com</email><token>null</token>
+</user>
+<user>
+    <name>test3</name><login>test3</login><password>c4273bf5335a252b829d8fd8aac317ea</password><email>test3@test.com</email><token>null</token>
+</user>
+<user>
+    <name>test5</name><login>test5</login><password>867973f59636c772f3873e897c19f333</password><email>test5@test.com</email><token>ca8ae79cf1fcfca9e7c0730ec34cc1c296c26674e9969f8356d75cff425857fac10ff2c9f71c57e415efbb470ab2aef46335449914b441f2229343ec34cda05c</token>
+</user>
+<user>
+    <name>test4</name><login>test4</login><password>26970c0618e26e74c5de2fce3bd8aadb</password><email>test4@test.com</email><token>b9a6ea51b5f4850d197428b2e457e994be54998b02cfd54d3c6b074720ee7f05362a2ea85e71742c7da843452f0cf80dd305a1b7ad6f2ad20512da36c2f75ba2</token>
+</user>
+</users>

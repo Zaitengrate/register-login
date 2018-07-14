@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="Style/style.css">
+</head>
+<body onload="init()">
+<span id="greeting"></span><br>
+<span id="message"></span><br>
+
+<div id="forms">
+    <form action="index.php" method="post" onsubmit="return create_account()" id="create_acc_form">
+        Create account<br>
+        Login:<br>
+        <input type="text" name="create_login" id="create_login"><br>
+        Password:<br>
+        <input type="password" name="create_password" id="create_password"><br>
+        Confirm password:<br>
+        <input type="password" name="conf_pass" id="create_conf_pass"><br>
+        Email:<br>
+        <input type="email" name="email" id="create_email"><br>
+        Name:<br>
+        <input type="text" name="name" id="create_name"><br>
+        <button type="submit"  id="create_form" disabled>Create</button>
+    </form><br>
+
+    <form action="index.php" method="post" onsubmit="return log_in()" id="login_acc_form">
+        Login<br>
+        Login:<br>
+        <input type="text" name="login" id="login"><br>
+        Password:<br>
+        <input type="password" name="password" id="password"><br>
+        <button type="submit" id="login_form" disabled>Login</button>
+    </form>
+</div>
+<script src="Script/script.js"></script>
+</body>
+</html>
